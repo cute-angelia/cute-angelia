@@ -22,6 +22,11 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=cute-angelia&show_icons=true)

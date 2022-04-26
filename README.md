@@ -18,9 +18,10 @@
 </p>
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=cute-angelia&show_icons=true)
-
 - 🌱 I’m currently thinking ...
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=cute-angelia&show_icons=true)

@@ -2,7 +2,7 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-43853d?style=flat-square&logo=golang&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-43853d?style=flat-square&logo=go&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />

@@ -53,9 +53,9 @@
 
 [chrome:微博图片下载工具](https://github.com/cute-angelia/chrome-weibo-downloader)
 
-[jekyll:eston](https://github.com/cute-angelia/jekyll-theme-eston)
+[jekyll:theme eston](https://github.com/cute-angelia/jekyll-theme-eston)
 
-[在线执行代码, c, c++, python, java, c#](https://github.com/cute-angelia/online-compiler-code)
+[python:在线执行代码 c, c++, python, java, c#](https://github.com/cute-angelia/online-compiler-code)
 
 
 ### GitHub Stats

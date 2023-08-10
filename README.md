@@ -21,41 +21,28 @@
 
 ### My Open Source Project
 
-[go:一个简单的发布服务，支持git，svn](https://github.com/cute-angelia/go-deploy-server)
+| Language | Project |
+|-|-|  
+| go | [一个简单的发布服务,支持git,svn](https://github.com/cute-angelia/go-deploy-server) |
+| go | [在线记事本](https://github.com/cute-angelia/notepad-online) |
+| go | [字节小程序sdk](https://github.com/cute-angelia/bytedance-microapp) |
+| go | [Golang工具库](https://github.com/cute-angelia/go-utils) |
+| go | [nginx 简单报警](https://github.com/cute-angelia/go-nginx-alert) |
+| go | [modify support gorm](https://github.com/cute-angelia/gogo-protobuf) |  
+| html | [人物关系图生成器](https://github.com/cute-angelia/relation-chart) |
+| html | [随机用户名字](https://github.com/cute-angelia/game-name-generate) |
+| shell | [安全shell脚本](https://github.com/cute-angelia/security_shell_script) |
+| shell | [常用脚本](https://github.com/cute-angelia/shell) |
+| npm | [mysql to protobuf](https://github.com/cute-angelia/mysql-protobuf) |
+| npm | [mysql to golang grom model](https://github.com/cute-angelia/mysql-scheme-convert-golang-model) |
+| npm | [玛丽工具箱](https://github.com/cute-angelia/mali-utils) |
+| npm | [玛丽签名js库](https://github.com/cute-angelia/mali-secure) |
+| chrome | [老司机利器](https://github.com/cute-angelia/chrome-blade) |
+| chrome | [微博图片下载工具](https://github.com/cute-angelia/chrome-weibo-downloader) |
+| chrome | [书签管理工具](https://github.com/cute-angelia/chrome-bookmark) |
+| jekyll | [theme eston](https://github.com/cute-angelia/jekyll-theme-eston) |
+| python | [在线执行代码 c, c++, python, java, c#](https://github.com/cute-angelia/online-compiler-code) |
 
-[go:在线记事本](https://github.com/cute-angelia/notepad-online) 
-
-[go:字节小程序sdk](https://github.com/cute-angelia/bytedance-microapp)
-
-[go:Golang工具库](https://github.com/cute-angelia/go-utils) 
-
-[go:nginx 简单报警](https://github.com/cute-angelia/go-nginx-alert)
-
-[go:modify support gorm](https://github.com/cute-angelia/gogo-protobuf)
-
-[html:人物关系图生成器](https://github.com/cute-angelia/relation-chart)
-
-[html:随机用户名字](https://github.com/cute-angelia/game-name-generate)
-
-[shell:安全shell脚本](https://github.com/cute-angelia/security_shell_script)
-
-[shell:常用脚本](https://github.com/cute-angelia/shell)
-
-[npm:mysql to protobuf](https://github.com/cute-angelia/mysql-protobuf)
-
-[npm:mysql to golang grom model](https://github.com/cute-angelia/mysql-scheme-convert-golang-model)
-
-[npm:玛丽工具箱](https://github.com/cute-angelia/mali-utils)
-
-[npm:玛丽签名js库](https://github.com/cute-angelia/mali-secure) 
-
-[chrome:老司机利器](https://github.com/cute-angelia/chrome-blade)
-
-[chrome:微博图片下载工具](https://github.com/cute-angelia/chrome-weibo-downloader)
-
-[jekyll:theme eston](https://github.com/cute-angelia/jekyll-theme-eston)
-
-[python:在线执行代码 c, c++, python, java, c#](https://github.com/cute-angelia/online-compiler-code)
 
 
 ### GitHub Stats

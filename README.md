@@ -17,7 +17,7 @@
 | <img alt="shell" src="https://img.shields.io/badge/-Shell-43853d?style=flat-square&logo=shell&logoColor=white" /> | [安全shell脚本](https://github.com/cute-angelia/security_shell_script) |
 | <img alt="shell" src="https://img.shields.io/badge/-Shell-43853d?style=flat-square&logo=shell&logoColor=white" /> | [常用脚本](https://github.com/cute-angelia/shell) |
 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> | [mysql to protobuf](https://github.com/cute-angelia/mysql-protobuf) |
-| <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> |
+| <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> | [mysql to golang gorm model](https://github.com/cute-angelia/mysql-scheme-convert-golang-model) |
 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> | [玛丽工具箱](https://github.com/cute-angelia/mali-utils) |
 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> | [玛丽签名js库](https://github.com/cute-angelia/mali-secure) |
 | <img alt="chrome" src="https://img.shields.io/badge/-Chrome-FBBC05?style=flat-square&logo=Google&logoColor=white" /> | [老司机利器](https://github.com/cute-angelia/chrome-blade) |
